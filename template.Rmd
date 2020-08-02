@@ -2,9 +2,10 @@
 title: "Talk Title"
 author: "Your Name (Presenter)"
 date: 1970-01-01
+publishDate: "`r format(Sys.time(), '%Y-%m-%d')`"
 summary: "One sentence description."
 paper: ["https://google.com", "https://colostate.edu"]
-slides: "/"
+slides: "/slides/your_slides.pdf"
 ---
 
 Full abstract goes here.

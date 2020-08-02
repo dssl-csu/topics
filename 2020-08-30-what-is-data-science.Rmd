@@ -2,9 +2,10 @@
 title: "What is Data Science?"
 author: "Wen Zhou & Andee Kaplan"
 date: 2020-08-30
+publishDate: "`r format(Sys.time(), '%Y-%m-%d')`"
 summary: "To kick off the journal club, we will have a brief discussion of the history of Data Science in the context of the field of Statistics."
 paper: ["https://www.tandfonline.com/doi/full/10.1080/10618600.2017.1384734"]
-slides: "/"
+slides: "/slides/"
 ---
 Abstract from the David Donaho's "50 Years of Data Science":
 
