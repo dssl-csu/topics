@@ -1,0 +1,10 @@
+---
+title: "Talk Title"
+author: "Your Name (Presenter)"
+date: 1970-01-01
+summary: "One sentence description."
+paper: ["https://google.com", "https://colostate.edu"]
+slides: "/"
+---
+
+Full abstract goes here.
