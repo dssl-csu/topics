@@ -1,0 +1,24 @@
+---
+title: "Welcome to DSSl @ CSU"
+author: "DSSL @ CSU Team"
+date: 2020-09-09
+publishDate: "`r format(Sys.time(), '%Y-%m-%d')`"
+summary: "To kick off the journal club, we will have a brief discussion of potential topics for the semester."
+paper: []
+slides: "/slides/2020_09_09/dssl_intro.pdf"
+---
+
+Potential topics for the semester:
+
+- Adversarial/robust learning
+- Bayesian network and causal inference
+- Boltzman machine
+- Cross validation
+- Conformal prediction (and/or knock off)
+- Differential privacy
+- Graphical modeling
+- Statistical understanding on neural networks: AMP, double descent, mean field, RF model
+- Inference and prediction using distributed optimization
+- Topic learning and mining
+- Tensor regression and modeling
+- Other suggestions?
