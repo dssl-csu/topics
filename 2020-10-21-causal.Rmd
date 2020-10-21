@@ -1,11 +1,11 @@
 ---
 title: "Causal Inference Introduction"
-author: "Mantautas Rimkus and Gray Stanton"
+author: "Gray Stanton and Austin Ellingworth"
 date: 2020-10-21
 publishDate: "`r format(Sys.time(), '%Y-%m-%d')`"
 summary: "We will discuss two papers introducing overviews of the concepts of causal inference: \"Causal diagrams for empirical research\" (Pearl, 1995) and \"Causal Inference Using Potential Outcomes: Design, Modeling, Decisions\" (Rubin, 2005)"
 paper: ["https://www.jstor.org/stable/pdf/27590541.pdf?casa_token=mwnYLYO1ZjgAAAAA:QP3fr5sUHBCVcvv20Avsw2U5CFLnWEVyYsDZtbi4ekmVxXwTwVGRCh7RobYl_Z2azijj1sKJ0hRmnndVD2ehb6euwgXLEsDwA6AO5LjbI_yVV5fbGBA", "https://academic.oup.com/biomet/article-pdf/82/4/669/698263/82-4-669.pdf?casa_token=mXTSuWdeV7YAAAAA:Lvs_RVu18N6LgUDUm68FJ6t6IbF2FApaTvHCjPzR4d_g6qmU1OmjJyFXniofSEsiM5Qmwg6BMd-N"]
-supplement: ["https://dl.acm.org/doi/10.1145/2939672.2939778"]
+supplement: []
 slides: "/slides/2020_10_21/causal_notes_combined.pdf"
 ---
 
