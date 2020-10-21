@@ -6,7 +6,7 @@ publishDate: "`r format(Sys.time(), '%Y-%m-%d')`"
 summary: "We will discuss the paper from Ribeiro et. al. (2016) titled \"Why Should I Trust You?\" Explaining the Predictions of Any Classifier."
 paper: ["https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf"]
 supplement: ["https://dl.acm.org/doi/10.1145/2939672.2939778"]
-slides: ""
+slides: "/slides/2020_10_07/ribeiro2016_notes.pdf"
 ---
 
 Abstract from the paper:
