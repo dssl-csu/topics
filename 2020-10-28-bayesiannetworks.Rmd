@@ -1,0 +1,17 @@
+---
+title: "Bayesian Networks"
+author: "Gray Stanton and Austin Ellingworth"
+date: 2020-10-28
+publishDate: "`r format(Sys.time(), '%Y-%m-%d')`"
+summary: "We will discuss two papers introducing the concepts of Bayesian networks: \"Bayesian Networks\" (Pearl and Russell, 2000) and \"Local Computations with Probabilities on Graphical Structures and Their Application to Expert Systems\" (Lauritzen and Spiegelhalter, 1988)"
+paper: ["https://escholarship.org/content/qt53n4f34m/qt53n4f34m.pdf", "https://www.jstor.org/stable/pdf/2345762.pdf?casa_token=tRI6_OZCw2QAAAAA:US0ljOnEpaGU4NBIBVTMJvey-_V4Ii3fHSL4mkX9LXPklDXQFA9YZDdDUdppWz5944qWVumaNWhrhohptaR3K_hRgMJTvjBtCdMkYdzwikD5uJB5viE"]
+supplement: []
+slides: "/slides/2020_10_28/pearl2000notes.pdf"
+---
+
+Abstracts from the papers:
+
+Lauritzen and Spiegelhalter (1988)
+
+> A causal network is used in a number of areas as a depiction of patterns of 'influence' among sets of variables. In expert systems it is common to perform 'inference' by means of local computations on such large but sparse networks. In general, non-probabilistic methods are used to handle uncertainty when propagating the effects of evidence, and it has appeared that exact probabilistic methods are not computationally feasible. Motivated by an application in electromyography, we counter this claim by exploiting a range of local representations for the joint probability distribution, combined with topological changes to the original network termed 'marrying' and 'filling-in'. The resulting structure allows efficient algorithms for transfer between representations, providing rapid absorption and propagation of evidence. The scheme is first illustrated on a small, fictitious but challenging example, and the underlying theory and computational aspects are then discussed.
+
