@@ -9,9 +9,7 @@ supplement: []
 slides: "/slides/2020_11_18/dp_notes.pdf"
 ---
 
-Abstracts from the papers:
+Abstract from the paper:
 
-Lauritzen and Spiegelhalter (1988)
-
-> A causal network is used in a number of areas as a depiction of patterns of 'influence' among sets of variables. In expert systems it is common to perform 'inference' by means of local computations on such large but sparse networks. In general, non-probabilistic methods are used to handle uncertainty when propagating the effects of evidence, and it has appeared that exact probabilistic methods are not computationally feasible. Motivated by an application in electromyography, we counter this claim by exploiting a range of local representations for the joint probability distribution, combined with topological changes to the original network termed 'marrying' and 'filling-in'. The resulting structure allows efficient algorithms for transfer between representations, providing rapid absorption and propagation of evidence. The scheme is first illustrated on a small, fictitious but challenging example, and the underlying theory and computational aspects are then discussed.
+> Over the past five years a new approach to privacy-preserving data analysis has born fruit. This approach differs from much (but not all!) of the related literature in the statistics, databases, theory, and cryptography communities, in that a formal and ad omnia privacy guarantee is defined, and the data analysis techniques presented are rigorously proved to satisfy the guarantee. The key privacy guarantee that has emerged is differential privacy. Roughly speaking, this ensures that (almost, and quantifiably) no risk is incurred by joining a statistical database. In this survey, we recall the definition of differential privacy and two basic techniques for achieving it. We then show some interesting appli- cations of these techniques, presenting algorithms for three specific tasks and three general results on differentially private learning.
 
