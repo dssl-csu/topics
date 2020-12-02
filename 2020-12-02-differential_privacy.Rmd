@@ -1,0 +1,18 @@
+---
+title: "Differential Privacy"
+author: "Alex Fout and Ian Taylor"
+date: 2020-12-02
+publishDate: "`r format(Sys.time(), '%Y-%m-%d')`"
+summary: "We will continue our discussion of differential privacy via \"Differential Privacy: A Survey of Results\" (Dwork, 2009) and \"Differential Privacy and Census Data: Implications for Social and Economic Research\" (Ruggles, 2019) "
+paper: ["https://web.cs.ucdavis.edu/~franklin/ecs289/2010/dwork_2008.pdf", "https://www.aeaweb.org/articles?id=10.1257/pandp.20191107"]
+supplement: []
+slides: "/slides/2020_11_18/dp_notes.pdf"
+---
+
+Abstract from Dwork, 2009:
+
+> Over the past five years a new approach to privacy-preserving data analysis has born fruit. This approach differs from much (but not all!) of the related literature in the statistics, databases, theory, and cryptography communities, in that a formal and ad omnia privacy guarantee is defined, and the data analysis techniques presented are rigorously proved to satisfy the guarantee. The key privacy guarantee that has emerged is differential privacy. Roughly speaking, this ensures that (almost, and quantifiably) no risk is incurred by joining a statistical database. In this survey, we recall the definition of differential privacy and two basic techniques for achieving it. We then show some interesting appli- cations of these techniques, presenting algorithms for three specific tasks and three general results on differentially private learning.
+
+Abstract from Ruggles, 2019:
+
+> The Census Bureau has announced new methods for disclosure control in public use data products. The new approach, known as differential privacy, represents a radical departure from current practice. In its pure form, differential privacy techniques may make the release of useful microdata impossible and limit the utility of tabular small-area data. Adoption of differential privacy will have far-reaching consequences for research. It is likely that scientists, planners, and the public will lose the free access we have enjoyed for six decades to reliable public Census Bureau data describing US social and economic change.
